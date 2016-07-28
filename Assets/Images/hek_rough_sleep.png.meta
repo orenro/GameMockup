@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: b76b02a6fd5d64200917b0acc2e86547
+timeCreated: 1469670100
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hek_rough_sleep_0
+    21300002: hek_rough_sleep_1
+    21300004: hek_rough_sleep_2
+    21300006: hek_rough_sleep_3
+    21300008: hek_rough_sleep_4
+    21300010: hek_rough_sleep_5
+    21300012: hek_rough_sleep_6
+    21300014: hek_rough_sleep_7
+    21300016: hek_rough_sleep_8
+    21300018: hek_rough_sleep_9
+    21300020: hek_rough_sleep_10
+    21300022: hek_rough_sleep_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 152
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hek_rough_sleep_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 401
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 54}
+        - {x: -16, y: 54}
+        - {x: -71, y: 7}
+        - {x: -71, y: -40}
+        - {x: -65, y: -48}
+        - {x: 50, y: -48}
+        - {x: 60, y: -46}
+        - {x: 75, y: -34}
+        - {x: 75, y: -13}
+        - {x: 49, y: 46}
+    - name: hek_rough_sleep_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 401
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 54}
+        - {x: -70, y: 16}
+        - {x: -70, y: -40}
+        - {x: -64, y: -48}
+        - {x: 51, y: -48}
+        - {x: 61, y: -46}
+        - {x: 76, y: -31}
+        - {x: 76, y: 24}
+        - {x: 40, y: 54}
+    - name: hek_rough_sleep_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 401
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 54}
+        - {x: -69, y: 16}
+        - {x: -69, y: -40}
+        - {x: -63, y: -48}
+        - {x: 52, y: -48}
+        - {x: 62, y: -46}
+        - {x: 76, y: -32}
+        - {x: 76, y: 25}
+        - {x: 41, y: 54}
+    - name: hek_rough_sleep_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 293
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -47}
+        - {x: 52, y: -47}
+        - {x: 75, y: -38}
+        - {x: 75, y: 23}
+        - {x: 64, y: 54}
+        - {x: -20, y: 54}
+        - {x: -71, y: -14}
+    - name: hek_rough_sleep_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 293
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 40}
+        - {x: 30, y: 50}
+        - {x: 21, y: 53}
+        - {x: -18, y: 53}
+        - {x: -73, y: -7}
+        - {x: -73, y: -32}
+        - {x: -62, y: -42}
+        - {x: -26, y: -50}
+        - {x: 67, y: -50}
+        - {x: 76, y: -29}
+        - {x: 76, y: -1}
+    - name: hek_rough_sleep_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 293
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 53}
+        - {x: 38, y: 53}
+        - {x: 31, y: 50}
+        - {x: 24, y: 53}
+        - {x: -6, y: 53}
+        - {x: -46, y: 25}
+        - {x: -72, y: -6}
+        - {x: -72, y: -33}
+        - {x: -63, y: -47}
+        - {x: -35, y: -50}
+        - {x: 6, y: -50}
+        - {x: 60, y: -45}
+        - {x: 76, y: -31}
+        - {x: 76, y: -7}
+    - name: hek_rough_sleep_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 185
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 54}
+        - {x: -20, y: 54}
+        - {x: -76, y: -2}
+        - {x: -76, y: -31}
+        - {x: -61, y: -49}
+        - {x: 9, y: -49}
+        - {x: 57, y: -43}
+        - {x: 75, y: -33}
+        - {x: 75, y: -8}
+        - {x: 51, y: 47}
+    - name: hek_rough_sleep_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 185
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: -40}
+        - {x: -62, y: -49}
+        - {x: 42, y: -49}
+        - {x: 76, y: -37}
+        - {x: 76, y: 2}
+        - {x: 52, y: 47}
+        - {x: 22, y: 54}
+        - {x: -15, y: 54}
+        - {x: -75, y: -8}
+    - name: hek_rough_sleep_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 185
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 45}
+        - {x: 12, y: 54}
+        - {x: -14, y: 54}
+        - {x: -74, y: -8}
+        - {x: -74, y: -38}
+        - {x: -52, y: -49}
+        - {x: 67, y: -49}
+        - {x: 76, y: -32}
+        - {x: 76, y: 8}
+        - {x: 41, y: 46}
+    - name: hek_rough_sleep_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 77
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 54}
+        - {x: -21, y: 54}
+        - {x: -76, y: -1}
+        - {x: -76, y: -30}
+        - {x: -61, y: -48}
+        - {x: 9, y: -48}
+        - {x: 57, y: -42}
+        - {x: 75, y: -32}
+        - {x: 75, y: -7}
+        - {x: 51, y: 48}
+    - name: hek_rough_sleep_10
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 77
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 54}
+        - {x: -22, y: 54}
+        - {x: -73, y: -4}
+        - {x: -73, y: -30}
+        - {x: -62, y: -40}
+        - {x: -55, y: -42}
+        - {x: -23, y: -48}
+        - {x: 0, y: -48}
+        - {x: 66, y: -44}
+        - {x: 76, y: -42}
+        - {x: 76, y: 4}
+    - name: hek_rough_sleep_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 77
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 54}
+        - {x: 31, y: 52}
+        - {x: 22, y: 54}
+        - {x: -7, y: 54}
+        - {x: -20, y: 49}
+        - {x: -72, y: -9}
+        - {x: -72, y: -48}
+        - {x: 69, y: -48}
+        - {x: 76, y: -37}
+        - {x: 76, y: -5}
+        - {x: 43, y: 54}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 8023afcb791ac4984b5562c895ee2ee2
+timeCreated: 1469670017
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hek_rough_poo_0
+    21300002: hek_rough_poo_1
+    21300004: hek_rough_poo_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 130
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hek_rough_poo_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 404
+        width: 130
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 52.5}
+        - {x: -33, y: 52.5}
+        - {x: -64, y: -9.5}
+        - {x: -64, y: -44.5}
+        - {x: -52, y: -51.5}
+        - {x: 47, y: -51.5}
+        - {x: 63, y: -29.5}
+        - {x: 63, y: 17.5}
+        - {x: 57, y: 40.5}
+      - - {x: -30, y: -41.5}
+        - {x: -38, y: -35.5}
+        - {x: -39, y: -35.5}
+        - {x: -43, y: -31.5}
+        - {x: -43, y: -30.5}
+        - {x: -45, y: -23.5}
+        - {x: 33, y: 16.5}
+        - {x: 7, y: -37.5}
+        - {x: 7, y: -39.5}
+        - {x: 10, y: -42.5}
+        - {x: 16, y: -41.5}
+        - {x: 3, y: -40.5}
+        - {x: 0, y: -42.5}
+        - {x: 2, y: -43.5}
+        - {x: 7, y: -38.5}
+        - {x: 7, y: -34.5}
+        - {x: -1, y: -19.5}
+        - {x: -12, y: -12.5}
+        - {x: -15, y: -18.5}
+        - {x: -15, y: -20.5}
+        - {x: -9, y: -30.5}
+        - {x: -3, y: -35.5}
+        - {x: -4, y: -35.5}
+        - {x: -40, y: -23.5}
+        - {x: -42, y: -28.5}
+        - {x: -42, y: -31.5}
+        - {x: -40, y: -34.5}
+        - {x: -35, y: -36.5}
+        - {x: -30, y: -40.5}
+        - {x: -25, y: -42.5}
+        - {x: -23, y: -42.5}
+        - {x: -21, y: -44.5}
+        - {x: -16, y: -45.5}
+        - {x: -4, y: -44.5}
+        - {x: -21, y: -42.5}
+        - {x: -23, y: -42.5}
+        - {x: -29, y: -43.5}
+      - - {x: 10, y: -1.5}
+        - {x: 2, y: -6.5}
+        - {x: -1, y: -13.5}
+        - {x: -1, y: -15.5}
+        - {x: 8, y: -22.5}
+        - {x: 14, y: -22.5}
+        - {x: 24, y: -14.5}
+        - {x: 24, y: -7.5}
+        - {x: 17, y: -1.5}
+      - - {x: -15, y: 4.5}
+        - {x: -17, y: 1.5}
+        - {x: -17, y: -14.5}
+        - {x: -11, y: -14.5}
+        - {x: -1, y: -8.5}
+        - {x: -1, y: -3.5}
+        - {x: -5, y: 4.5}
+      - - {x: 30, y: 4.5}
+        - {x: 27, y: -2.5}
+        - {x: 27, y: -9.5}
+        - {x: 32, y: -12.5}
+        - {x: 39, y: -12.5}
+        - {x: 42, y: -3.5}
+        - {x: 42, y: 4.5}
+    - name: hek_rough_poo_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 299
+        width: 130
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 50.5}
+        - {x: -36, y: 44.5}
+        - {x: -64, y: 2.5}
+        - {x: -64, y: -42.5}
+        - {x: -52, y: -50.5}
+        - {x: 60, y: -50.5}
+        - {x: 65, y: -35.5}
+        - {x: 65, y: 36.5}
+        - {x: 41, y: 50.5}
+      - - {x: -31, y: -39.5}
+        - {x: -35, y: -39.5}
+        - {x: -36, y: -36.5}
+        - {x: -47, y: -25.5}
+        - {x: -1, y: 25.5}
+        - {x: 53, y: -21.5}
+        - {x: 50, y: -28.5}
+        - {x: 51, y: -28.5}
+        - {x: 48, y: -25.5}
+        - {x: 44, y: -25.5}
+        - {x: 30, y: -34.5}
+        - {x: 29, y: -35.5}
+        - {x: 21, y: -35.5}
+        - {x: 21, y: -36.5}
+        - {x: 22, y: -36.5}
+        - {x: 28, y: -30.5}
+        - {x: 40, y: -20.5}
+        - {x: 36, y: -11.5}
+        - {x: 30, y: -12.5}
+        - {x: 10, y: -33.5}
+        - {x: 9, y: -39.5}
+        - {x: 9, y: -41.5}
+        - {x: 4, y: -41.5}
+        - {x: -16, y: -43.5}
+        - {x: -6, y: -44.5}
+        - {x: 3, y: -43.5}
+        - {x: 7, y: -39.5}
+        - {x: 7, y: -34.5}
+        - {x: -2, y: -21.5}
+        - {x: -10, y: -15.5}
+        - {x: -13, y: -15.5}
+        - {x: -16, y: -18.5}
+        - {x: -16, y: -21.5}
+        - {x: -11, y: -28.5}
+        - {x: -32, y: -24.5}
+        - {x: -39, y: -28.5}
+        - {x: -38, y: -33.5}
+        - {x: -35, y: -37.5}
+        - {x: -29, y: -40.5}
+      - - {x: 7, y: -2.5}
+        - {x: 0, y: -7.5}
+        - {x: 0, y: -21.5}
+        - {x: 3, y: -22.5}
+        - {x: 18, y: -22.5}
+        - {x: 26, y: -13.5}
+        - {x: 26, y: -7.5}
+        - {x: 15, y: -2.5}
+      - - {x: -9, y: 4.5}
+        - {x: -17, y: 4.5}
+        - {x: -17, y: -15.5}
+        - {x: -5, y: -15.5}
+        - {x: -1, y: -8.5}
+        - {x: -1, y: 0.5}
+      - - {x: 31, y: 3.5}
+        - {x: 27, y: 0.5}
+        - {x: 27, y: -9.5}
+        - {x: 28, y: -13.5}
+        - {x: 37, y: -13.5}
+        - {x: 38, y: -11.5}
+        - {x: 41, y: -3.5}
+        - {x: 41, y: 3.5}
+    - name: hek_rough_poo_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 194
+        width: 130
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 52.5}
+        - {x: -65, y: -4.5}
+        - {x: -65, y: -51.5}
+        - {x: 62, y: -51.5}
+        - {x: 62, y: 21.5}
+        - {x: 40, y: 52.5}
+      - - {x: -39, y: -31.5}
+        - {x: -42, y: 5.5}
+        - {x: 52, y: -0.5}
+        - {x: 50, y: -20.5}
+        - {x: 50, y: -22.5}
+        - {x: 46, y: -29.5}
+        - {x: 47, y: -29.5}
+        - {x: 44, y: -26.5}
+        - {x: 41, y: -26.5}
+        - {x: 30, y: -31.5}
+        - {x: 25, y: -34.5}
+        - {x: 20, y: -35.5}
+        - {x: 23, y: -35.5}
+        - {x: 25, y: -32.5}
+        - {x: 29, y: -27.5}
+        - {x: 41, y: -18.5}
+        - {x: 38, y: -11.5}
+        - {x: 31, y: -11.5}
+        - {x: 11, y: -27.5}
+        - {x: 6, y: -42.5}
+        - {x: 3, y: -40.5}
+        - {x: -3, y: -41.5}
+        - {x: 0, y: -42.5}
+        - {x: 3, y: -41.5}
+        - {x: 7, y: -36.5}
+        - {x: 8, y: -33.5}
+        - {x: 8, y: -22.5}
+        - {x: -19, y: -7.5}
+        - {x: -37, y: -29.5}
+        - {x: -37, y: -31.5}
+        - {x: -34, y: -34.5}
+        - {x: -27, y: -40.5}
+        - {x: -26, y: -40.5}
+        - {x: -25, y: -42.5}
+        - {x: -22, y: -43.5}
+        - {x: -16, y: -43.5}
+        - {x: -23, y: -41.5}
+        - {x: -26, y: -41.5}
+      - - {x: 4, y: -2.5}
+        - {x: 0, y: -8.5}
+        - {x: 0, y: -18.5}
+        - {x: 5, y: -20.5}
+        - {x: 7, y: -21.5}
+        - {x: 18, y: -21.5}
+        - {x: 23, y: -14.5}
+        - {x: 23, y: -6.5}
+        - {x: 17, y: -2.5}
+      - - {x: -18, y: 5.5}
+        - {x: -18, y: -14.5}
+        - {x: -15, y: -15.5}
+        - {x: -7, y: -15.5}
+        - {x: -4, y: -13.5}
+        - {x: -4, y: -1.5}
+        - {x: -7, y: 5.5}
+      - - {x: 29, y: 4.5}
+        - {x: 26, y: -2.5}
+        - {x: 26, y: -12.5}
+        - {x: 40, y: -12.5}
+        - {x: 41, y: -9.5}
+        - {x: 41, y: 4.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

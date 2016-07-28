@@ -1,0 +1,724 @@
+fileFormatVersion: 2
+guid: fb80d639a7b2f4ba583ac94b48e04fb6
+timeCreated: 1469669755
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hek_rough_drag_0
+    21300002: hek_rough_drag_1
+    21300004: hek_rough_drag_2
+    21300006: hek_rough_drag_3
+    21300008: hek_rough_drag_4
+    21300010: hek_rough_drag_5
+    21300012: hek_rough_drag_6
+    21300014: hek_rough_drag_7
+    21300016: hek_rough_drag_8
+    21300018: hek_rough_drag_9
+    21300020: hek_rough_drag_10
+    21300022: hek_rough_drag_11
+    21300024: hek_rough_drag_12
+    21300026: hek_rough_drag_13
+    21300028: hek_rough_drag_14
+    21300030: hek_rough_drag_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 180
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hek_rough_drag_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 875
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 70}
+        - {x: -60, y: 29}
+        - {x: -61, y: 24}
+        - {x: -61, y: -50}
+        - {x: -35, y: -63}
+        - {x: 29, y: -63}
+        - {x: 55, y: -28}
+        - {x: 55, y: 32}
+        - {x: 25, y: 70}
+      - - {x: -19, y: -17}
+        - {x: -21, y: -18}
+        - {x: -21, y: -26}
+        - {x: -19, y: -30}
+        - {x: -10, y: -30}
+        - {x: -9, y: -27}
+        - {x: -9, y: -19}
+        - {x: -11, y: -17}
+      - - {x: 3, y: -2}
+        - {x: -10, y: -7}
+        - {x: -12, y: -11}
+        - {x: -12, y: -15}
+        - {x: -5, y: -20}
+        - {x: 20, y: -20}
+        - {x: 32, y: -17}
+        - {x: 32, y: -5}
+        - {x: 22, y: -2}
+      - - {x: -16, y: 18}
+        - {x: -20, y: 16}
+        - {x: -22, y: 13}
+        - {x: -22, y: 6}
+        - {x: -21, y: 2}
+        - {x: -11, y: 2}
+        - {x: -8, y: 3}
+        - {x: -8, y: 13}
+        - {x: -12, y: 18}
+    - name: hek_rough_drag_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 875
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: -36}
+        - {x: -42, y: -62}
+        - {x: -10, y: -71}
+        - {x: 39, y: -71}
+        - {x: 70, y: -34}
+        - {x: 70, y: 27}
+        - {x: 68, y: 34}
+        - {x: 16, y: 73}
+        - {x: -4, y: 73}
+        - {x: -61, y: -13}
+      - - {x: -23, y: -38}
+        - {x: -20, y: -37}
+        - {x: -20, y: -34}
+        - {x: -23, y: -33}
+        - {x: -25, y: -35}
+      - - {x: 7, y: -24}
+        - {x: 1, y: -24}
+        - {x: -4, y: -25}
+        - {x: -4, y: -36}
+        - {x: 0, y: -38}
+        - {x: 8, y: -38}
+        - {x: 9, y: -36}
+        - {x: 10, y: -33}
+        - {x: 10, y: -27}
+      - - {x: 49, y: 1}
+        - {x: 36, y: 1}
+        - {x: 29, y: 0}
+        - {x: 6, y: -9}
+        - {x: 2, y: -16}
+        - {x: 2, y: -20}
+        - {x: 4, y: -21}
+        - {x: 34, y: -21}
+        - {x: 50, y: -5}
+        - {x: 50, y: 0}
+      - - {x: -11, y: 6}
+        - {x: -13, y: 2}
+        - {x: -13, y: -10}
+        - {x: -9, y: -11}
+        - {x: -1, y: -11}
+        - {x: 1, y: -9}
+        - {x: 1, y: 0}
+        - {x: 0, y: 6}
+    - name: hek_rough_drag_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 875
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 69}
+        - {x: -5, y: 67}
+        - {x: -58, y: -16}
+        - {x: -58, y: -44}
+        - {x: -39, y: -66}
+        - {x: 61, y: -66}
+        - {x: 72, y: -29}
+        - {x: 72, y: 34}
+        - {x: 24, y: 69}
+      - - {x: 16, y: -27}
+        - {x: 11, y: -27}
+        - {x: 5, y: -29}
+        - {x: 5, y: -39}
+        - {x: 7, y: -40}
+        - {x: 17, y: -40}
+        - {x: 18, y: -38}
+        - {x: 19, y: -35}
+        - {x: 19, y: -30}
+      - - {x: 50, y: 6}
+        - {x: 47, y: 6}
+        - {x: 17, y: -4}
+        - {x: 10, y: -14}
+        - {x: 10, y: -22}
+        - {x: 30, y: -22}
+        - {x: 55, y: -10}
+        - {x: 55, y: 4}
+        - {x: 53, y: 5}
+      - - {x: 2, y: 3}
+        - {x: -7, y: 3}
+        - {x: -9, y: -4}
+        - {x: -9, y: -8}
+        - {x: -5, y: -11}
+        - {x: 1, y: -11}
+        - {x: 5, y: -7}
+        - {x: 5, y: 2}
+    - name: hek_rough_drag_3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 875
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 68}
+        - {x: -50, y: 21}
+        - {x: -50, y: -59}
+        - {x: -48, y: -65}
+        - {x: 78, y: -65}
+        - {x: 81, y: -34}
+        - {x: 81, y: 30}
+        - {x: 24, y: 68}
+      - - {x: 15, y: -31}
+        - {x: 15, y: -35}
+        - {x: 17, y: -39}
+        - {x: 26, y: -39}
+        - {x: 26, y: -30}
+        - {x: 23, y: -27}
+        - {x: 19, y: -26}
+      - - {x: 1, y: 3}
+        - {x: -2, y: 1}
+        - {x: -2, y: -7}
+        - {x: -1, y: -9}
+        - {x: 10, y: -9}
+        - {x: 10, y: 2}
+        - {x: 7, y: 3}
+    - name: hek_rough_drag_4
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 875
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 69}
+        - {x: -47, y: -17}
+        - {x: -47, y: -34}
+        - {x: -26, y: -62}
+        - {x: 78, y: -62}
+        - {x: 78, y: 59}
+        - {x: 36, y: 69}
+      - - {x: 18, y: -24}
+        - {x: 14, y: -25}
+        - {x: 13, y: -32}
+        - {x: 17, y: -37}
+        - {x: 22, y: -37}
+        - {x: 25, y: -34}
+        - {x: 25, y: -27}
+        - {x: 24, y: -24}
+      - - {x: 16, y: -15}
+        - {x: 48, y: -15}
+        - {x: 59, y: -10}
+        - {x: 59, y: 11}
+        - {x: 43, y: 11}
+        - {x: 27, y: 8}
+        - {x: 16, y: -9}
+      - - {x: -1, y: 4}
+        - {x: -4, y: -1}
+        - {x: -4, y: -6}
+        - {x: -1, y: -9}
+        - {x: 2, y: -10}
+        - {x: 8, y: -10}
+        - {x: 10, y: -8}
+        - {x: 10, y: 1}
+        - {x: 8, y: 4}
+    - name: hek_rough_drag_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 729
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 71}
+        - {x: -42, y: 1}
+        - {x: -42, y: -37}
+        - {x: -41, y: -39}
+        - {x: -26, y: -63}
+        - {x: 73, y: -63}
+        - {x: 78, y: -44}
+        - {x: 78, y: 38}
+        - {x: 29, y: 71}
+      - - {x: 13, y: -31}
+        - {x: 10, y: -34}
+        - {x: 9, y: -39}
+        - {x: 13, y: -44}
+        - {x: 17, y: -44}
+        - {x: 21, y: -41}
+        - {x: 21, y: -35}
+        - {x: 17, y: -31}
+      - - {x: 31, y: 4}
+        - {x: 14, y: -14}
+        - {x: 14, y: -23}
+        - {x: 47, y: -23}
+        - {x: 62, y: -5}
+        - {x: 62, y: 4}
+      - - {x: 0, y: -1}
+        - {x: -2, y: -4}
+        - {x: -3, y: -7}
+        - {x: -3, y: -15}
+        - {x: 9, y: -15}
+        - {x: 10, y: -13}
+        - {x: 10, y: -2}
+        - {x: 7, y: -1}
+    - name: hek_rough_drag_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 729
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 67}
+        - {x: -57, y: 2}
+        - {x: -57, y: -35}
+        - {x: -37, y: -68}
+        - {x: 68, y: -68}
+        - {x: 75, y: -67}
+        - {x: 75, y: 29}
+        - {x: 31, y: 67}
+      - - {x: -4, y: -33}
+        - {x: -4, y: -41}
+        - {x: -2, y: -46}
+        - {x: 8, y: -46}
+        - {x: 9, y: -43}
+        - {x: 9, y: -35}
+        - {x: 7, y: -33}
+      - - {x: 17, y: -5}
+        - {x: -1, y: -20}
+        - {x: -1, y: -27}
+        - {x: 30, y: -27}
+        - {x: 55, y: -21}
+        - {x: 55, y: -5}
+      - - {x: -9, y: -2}
+        - {x: -11, y: -6}
+        - {x: -11, y: -13}
+        - {x: -9, y: -18}
+        - {x: 0, y: -18}
+        - {x: 1, y: -17}
+        - {x: 2, y: -15}
+        - {x: 2, y: -3}
+        - {x: -2, y: -2}
+    - name: hek_rough_drag_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 729
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 68}
+        - {x: -66, y: 8}
+        - {x: -66, y: -61}
+        - {x: 4, y: -73}
+        - {x: 67, y: -73}
+        - {x: 67, y: 55}
+        - {x: 34, y: 68}
+      - - {x: -30, y: 3}
+        - {x: 1, y: 28}
+        - {x: 46, y: 17}
+        - {x: 18, y: -53}
+      - - {x: -17, y: -33}
+        - {x: -18, y: -37}
+        - {x: -18, y: -47}
+        - {x: -16, y: -49}
+        - {x: -9, y: -49}
+        - {x: -6, y: -48}
+        - {x: -6, y: -35}
+        - {x: -9, y: -33}
+      - - {x: 27, y: -10}
+        - {x: 13, y: -10}
+        - {x: -9, y: -23}
+        - {x: -9, y: -32}
+        - {x: 35, y: -32}
+        - {x: 46, y: -21}
+        - {x: 46, y: -13}
+        - {x: 45, y: -11}
+      - - {x: -9, y: -2}
+        - {x: -14, y: -2}
+        - {x: -20, y: -4}
+        - {x: -20, y: -15}
+        - {x: -17, y: -18}
+        - {x: -11, y: -18}
+        - {x: -8, y: -14}
+        - {x: -8, y: -5}
+    - name: hek_rough_drag_8
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 729
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 72}
+        - {x: -78, y: 21}
+        - {x: -78, y: -34}
+        - {x: -76, y: -39}
+        - {x: -32, y: -70}
+        - {x: 10, y: -70}
+        - {x: 47, y: -39}
+        - {x: 47, y: 26}
+        - {x: 30, y: 72}
+      - - {x: -32, y: -27}
+        - {x: -35, y: -28}
+        - {x: -35, y: -37}
+        - {x: -34, y: -42}
+        - {x: -25, y: -42}
+        - {x: -25, y: -30}
+        - {x: -29, y: -27}
+      - - {x: -3, y: -9}
+        - {x: -14, y: -12}
+        - {x: -23, y: -23}
+        - {x: -23, y: -28}
+        - {x: -15, y: -31}
+        - {x: 6, y: -31}
+        - {x: 21, y: -26}
+        - {x: 21, y: -17}
+        - {x: 5, y: -9}
+      - - {x: -24, y: 7}
+        - {x: -30, y: 4}
+        - {x: -30, y: -9}
+        - {x: -22, y: -9}
+        - {x: -17, y: -7}
+        - {x: -16, y: -5}
+        - {x: -16, y: 7}
+    - name: hek_rough_drag_9
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 729
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 69}
+        - {x: -1, y: 69}
+        - {x: -4, y: 66}
+        - {x: -84, y: 27}
+        - {x: -86, y: 23}
+        - {x: -86, y: -23}
+        - {x: -81, y: -39}
+        - {x: -36, y: -72}
+        - {x: 5, y: -72}
+        - {x: 15, y: -69}
+        - {x: 35, y: -31}
+        - {x: 35, y: 27}
+      - - {x: -49, y: -20}
+        - {x: -52, y: -26}
+        - {x: -52, y: -41}
+        - {x: 0, y: -41}
+        - {x: 2, y: -40}
+        - {x: 2, y: -26}
+        - {x: -13, y: -20}
+      - - {x: -41, y: 7}
+        - {x: -45, y: 3}
+        - {x: -45, y: -10}
+        - {x: -35, y: -10}
+        - {x: -31, y: -8}
+        - {x: -31, y: 5}
+        - {x: -36, y: 7}
+    - name: hek_rough_drag_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 583
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 7}
+        - {x: 35, y: 12}
+        - {x: 22, y: 69}
+        - {x: -17, y: 69}
+        - {x: -80, y: 34}
+        - {x: -80, y: -26}
+        - {x: -70, y: -67}
+        - {x: -43, y: -67}
+        - {x: -4, y: -56}
+        - {x: 22, y: -43}
+        - {x: 36, y: -20}
+      - - {x: -27, y: -15}
+        - {x: -36, y: -14}
+        - {x: -48, y: -14}
+        - {x: -48, y: -19}
+        - {x: -47, y: -22}
+        - {x: -35, y: -38}
+        - {x: -6, y: -38}
+        - {x: -5, y: -37}
+        - {x: -5, y: -33}
+        - {x: -6, y: -30}
+      - - {x: -43, y: 11}
+        - {x: -45, y: 7}
+        - {x: -45, y: -4}
+        - {x: -42, y: -5}
+        - {x: -35, y: -5}
+        - {x: -32, y: -2}
+        - {x: -32, y: 7}
+        - {x: -33, y: 11}
+    - name: hek_rough_drag_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 583
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87, y: -15}
+        - {x: -80, y: -61}
+        - {x: -16, y: -61}
+        - {x: 6, y: -58}
+        - {x: 25, y: -27}
+        - {x: 25, y: 69}
+        - {x: -64, y: 69}
+        - {x: -87, y: 65}
+      - - {x: -50, y: -13}
+        - {x: -57, y: -13}
+        - {x: -58, y: -14}
+        - {x: -58, y: -27}
+        - {x: -47, y: -44}
+        - {x: -21, y: -44}
+        - {x: -20, y: -42}
+        - {x: -20, y: -36}
+        - {x: -34, y: -20}
+      - - {x: 86, y: 15}
+        - {x: 86, y: -8}
+        - {x: 90, y: -8}
+        - {x: 90, y: 15}
+      - - {x: -43, y: 16}
+        - {x: -51, y: 16}
+        - {x: -53, y: 14}
+        - {x: -53, y: -1}
+        - {x: -49, y: -3}
+        - {x: -45, y: -3}
+        - {x: -40, y: 2}
+        - {x: -40, y: 12}
+    - name: hek_rough_drag_12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 583
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 69}
+        - {x: -72, y: 64}
+        - {x: -90, y: 37}
+        - {x: -90, y: -51}
+        - {x: -69, y: -55}
+        - {x: 15, y: -55}
+        - {x: 18, y: -34}
+        - {x: 18, y: 69}
+      - - {x: -54, y: 20}
+        - {x: -58, y: 19}
+        - {x: -58, y: 6}
+        - {x: -56, y: 5}
+        - {x: -49, y: 5}
+        - {x: -47, y: 8}
+        - {x: -47, y: 17}
+        - {x: -48, y: 20}
+    - name: hek_rough_drag_13
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 583
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 70}
+        - {x: -28, y: 70}
+        - {x: -68, y: 61}
+        - {x: -90, y: 40}
+        - {x: -90, y: -39}
+        - {x: -84, y: -55}
+        - {x: -82, y: -58}
+        - {x: -19, y: -58}
+        - {x: 7, y: -54}
+        - {x: 19, y: -29}
+        - {x: 21, y: -16}
+        - {x: 21, y: 35}
+      - - {x: -55, y: 13}
+        - {x: -58, y: 5}
+        - {x: -58, y: 0}
+        - {x: -54, y: -2}
+        - {x: -48, y: -2}
+        - {x: -46, y: 1}
+        - {x: -46, y: 11}
+        - {x: -49, y: 13}
+    - name: hek_rough_drag_14
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 583
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 70}
+        - {x: -90, y: 41}
+        - {x: -90, y: -43}
+        - {x: -64, y: -58}
+        - {x: -15, y: -58}
+        - {x: -13, y: -56}
+        - {x: 26, y: -29}
+        - {x: 26, y: 70}
+      - - {x: -52, y: -14}
+        - {x: -54, y: -16}
+        - {x: -54, y: -20}
+        - {x: -52, y: -23}
+        - {x: -37, y: -32}
+        - {x: -12, y: -32}
+        - {x: -9, y: -29}
+        - {x: -9, y: -19}
+        - {x: -23, y: -14}
+      - - {x: -52, y: 11}
+        - {x: -54, y: 9}
+        - {x: -56, y: 6}
+        - {x: -56, y: -1}
+        - {x: -55, y: -5}
+        - {x: -46, y: -5}
+        - {x: -43, y: -4}
+        - {x: -43, y: 9}
+        - {x: -48, y: 11}
+    - name: hek_rough_drag_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 437
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 68}
+        - {x: 3, y: 68}
+        - {x: -67, y: 38}
+        - {x: -76, y: 15}
+        - {x: -76, y: -35}
+        - {x: -53, y: -59}
+        - {x: -7, y: -59}
+        - {x: 34, y: -41}
+        - {x: 41, y: -17}
+        - {x: 41, y: 31}
+      - - {x: -39, y: -20}
+        - {x: -43, y: -23}
+        - {x: -43, y: -30}
+        - {x: -41, y: -35}
+        - {x: -32, y: -35}
+        - {x: -31, y: -32}
+        - {x: -31, y: -23}
+        - {x: -35, y: -20}
+      - - {x: 2, y: -8}
+        - {x: -18, y: -8}
+        - {x: -31, y: -13}
+        - {x: -34, y: -16}
+        - {x: -34, y: -18}
+        - {x: -29, y: -25}
+        - {x: -21, y: -27}
+        - {x: -4, y: -27}
+        - {x: 7, y: -22}
+        - {x: 11, y: -17}
+        - {x: 11, y: -12}
+      - - {x: -38, y: 10}
+        - {x: -39, y: 7}
+        - {x: -39, y: -5}
+        - {x: -37, y: -6}
+        - {x: -29, y: -6}
+        - {x: -28, y: -3}
+        - {x: -28, y: 10}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

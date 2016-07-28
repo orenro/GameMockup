@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: d6e6ca5ec6d444e9195dce6639ebf147
+timeCreated: 1469670816
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hek_rough_up_0
+    21300002: hek_rough_up_1
+    21300004: hek_rough_up_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 140
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hek_rough_up_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 369
+        width: 122
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 36}
+        - {x: 27, y: 68}
+        - {x: -14, y: 68}
+        - {x: -56, y: 47}
+        - {x: -56, y: -30}
+        - {x: -49, y: -49}
+        - {x: -17, y: -62}
+        - {x: 35, y: -62}
+        - {x: 56, y: -17}
+      - - {x: -31, y: -21}
+        - {x: -32, y: -22}
+        - {x: -31, y: -21}
+        - {x: -31, y: -19}
+      - - {x: 0, y: 44}
+        - {x: -18, y: 23}
+        - {x: -18, y: 21}
+        - {x: -17, y: 4}
+        - {x: -16, y: -4}
+        - {x: -10, y: -4}
+        - {x: -8, y: -3}
+        - {x: 6, y: 9}
+        - {x: 6, y: 44}
+      - - {x: 21, y: 36}
+        - {x: 18, y: 33}
+        - {x: 18, y: 23}
+        - {x: 19, y: 20}
+        - {x: 26, y: 20}
+        - {x: 31, y: 23}
+        - {x: 31, y: 30}
+        - {x: 29, y: 36}
+    - name: hek_rough_up_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 229
+        width: 122
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -64}
+        - {x: 19, y: -64}
+        - {x: 40, y: -52}
+        - {x: 57, y: -27}
+        - {x: 57, y: 54}
+        - {x: 54, y: 69}
+        - {x: -46, y: 69}
+        - {x: -61, y: 45}
+        - {x: -61, y: -23}
+        - {x: -46, y: -50}
+        - {x: -16, y: -64}
+        - {x: -5, y: -64}
+        - {x: 11, y: -49}
+        - {x: 14, y: -34}
+        - {x: 14, y: -49}
+      - - {x: 1, y: 43}
+        - {x: -19, y: 25}
+        - {x: -19, y: 1}
+        - {x: -18, y: -7}
+        - {x: -10, y: -7}
+        - {x: 6, y: 2}
+        - {x: 7, y: 9}
+        - {x: 7, y: 43}
+      - - {x: 23, y: 34}
+        - {x: 18, y: 30}
+        - {x: 18, y: 22}
+        - {x: 19, y: 19}
+        - {x: 25, y: 19}
+        - {x: 30, y: 24}
+        - {x: 30, y: 33}
+        - {x: 28, y: 35}
+    - name: hek_rough_up_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 89
+        width: 122
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 68}
+        - {x: -59, y: 41}
+        - {x: -59, y: -39}
+        - {x: -27, y: -69}
+        - {x: 14, y: -69}
+        - {x: 57, y: -32}
+        - {x: 57, y: 51}
+        - {x: 34, y: 68}
+      - - {x: -27, y: -35}
+        - {x: -8, y: 46}
+        - {x: 19, y: 54}
+        - {x: 34, y: -11}
+      - - {x: -2, y: 44}
+        - {x: -20, y: 24}
+        - {x: -20, y: 1}
+        - {x: -18, y: -8}
+        - {x: -15, y: -9}
+        - {x: -11, y: -9}
+        - {x: 5, y: 2}
+        - {x: 6, y: 14}
+        - {x: 6, y: 44}
+      - - {x: 22, y: 33}
+        - {x: 17, y: 31}
+        - {x: 17, y: 20}
+        - {x: 21, y: 16}
+        - {x: 27, y: 16}
+        - {x: 30, y: 19}
+        - {x: 30, y: 28}
+        - {x: 29, y: 33}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

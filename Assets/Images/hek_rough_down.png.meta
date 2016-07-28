@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 153e5e7022f15412cb5c42373c95124a
+timeCreated: 1469669370
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hek_rough_down_0
+    21300002: hek_rough_down_1
+    21300004: hek_rough_down_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 158
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hek_rough_down_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 351
+        width: 130
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 38.5}
+        - {x: -31.5, y: 17.5}
+        - {x: -31.5, y: -14.5}
+        - {x: -14.5, y: -36.5}
+        - {x: 13.5, y: -36.5}
+        - {x: 33.5, y: -22.5}
+        - {x: 33.5, y: 22.5}
+        - {x: 11.5, y: 38.5}
+    - name: hek_rough_down_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 193
+        width: 130
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 38.5}
+        - {x: -31.5, y: 26.5}
+        - {x: -31.5, y: -28.5}
+        - {x: -13.5, y: -39.5}
+        - {x: 10.5, y: -39.5}
+        - {x: 30.5, y: -35.5}
+        - {x: 32.5, y: -23.5}
+        - {x: 32.5, y: 24.5}
+        - {x: 7.5, y: 38.5}
+    - name: hek_rough_down_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 130
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 39.5}
+        - {x: 9.5, y: 40.5}
+        - {x: -7.5, y: 40.5}
+        - {x: -32.5, y: 11.5}
+        - {x: -32.5, y: -18.5}
+        - {x: -13.5, y: -39.5}
+        - {x: 6.5, y: -39.5}
+        - {x: 29.5, y: -26.5}
+        - {x: 32.5, y: -12.5}
+        - {x: 32.5, y: 16.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
